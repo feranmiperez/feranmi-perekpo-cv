@@ -1,0 +1,239 @@
+div {
+    border-radius: 5px;
+}
+
+div.intro {
+    padding: 1rem;
+    background-color: beige;
+}
+
+div.intro h1 {
+    color: black
+}
+
+div.intro h3 {
+    color: darkseagreen;
+}
+
+div.intro img {
+    border-radius: 50%;
+}
+
+div.contact {
+    display: block;
+    padding: 1rem;
+    background-color: beige;
+}
+
+div.education {
+    display: block;
+    padding: 1rem;
+    background-color: beige;
+}
+
+div.education h2 {
+    color: maroon;
+}
+
+div.work-experience {
+    display: block;
+    padding: 1rem;
+    background-color: beige;
+}
+
+div.work-experience h2 {
+    color: maroon;
+}
+
+div.social {
+    display: block;
+    padding: 1rem;
+    background-color: beige;
+}
+
+div.social h3 {
+    color: maroon;
+}
+
+div.social h4 {
+    color: darkseagreen;
+}
+
+div.student {
+    display: block;
+    padding: 1rem;
+    background-color: beige;
+}
+
+div.student h3 {
+    color: maroon;
+}
+
+div.student h4 {
+    color: darkseagreen;
+}
+
+div.skills {
+    background-color: beige;
+    padding: 1rem;
+    display: block;
+}
+
+div.skills h3 {
+    color: maroon;
+}
+
+div.personal {
+    background-color: beige;
+    padding: 1rem;
+    display: block;
+}
+
+div.personal h3 {
+    color: maroon;
+}
+
+div.personal h4 {
+    color: darkseagreen;
+}
+
+div.organizations {
+    background-color: beige;
+    padding: 1rem;
+    display: block;
+}
+
+div.organizations h3 {
+    color: maroon;
+}
+
+div.organizations h4 {
+    color: darkseagreen;
+}
+
+div.certificates {
+    background-color: beige;
+    padding: 1rem;
+    display: block;
+}
+
+div.certificates h3 {
+    color: maroon;
+}
+
+div.interests {
+    background-color: beige;
+    padding: 1rem;
+    display: block;
+}
+
+div.interests h3 {
+    color: maroon;
+}
+
+@media screen and (max-width: 544px) {
+    div {
+        border-radius: 5px;
+    }
+    div.intro {
+        padding: 1rem;
+        background-color: white;
+        text-align: center;
+    }
+    div.contact {
+        display: block;
+        padding: 1rem;
+        background-color: beige;
+        text-align: center;
+    }
+    div.education {
+        display: block;
+        padding: 1rem;
+        background-color: beige;
+        text-align: center;
+    }
+    div.work-experience {
+        display: block;
+        padding: 1rem;
+        background-color: white;
+        text-align: center;
+    }
+    div.work-experience h2 {
+        color: maroon;
+    }
+    div.social {
+        display: block;
+        padding: 1rem;
+        background-color: beige;
+        text-align: center;
+    }
+    div.social h3 {
+        color: maroon;
+    }
+    div.social h4 {
+        color: darkseagreen;
+    }
+    div.student {
+        display: block;
+        padding: 1rem;
+        background-color: white;
+        text-align: center;
+    }
+    div.student h3 {
+        color: maroon;
+    }
+    div.student h4 {
+        color: darkseagreen;
+    }
+    div.skills {
+        background-color: beige;
+        padding: 1rem;
+        display: block;
+        text-align: center;
+    }
+    div.skills h3 {
+        color: maroon;
+    }
+    div.personal {
+        background-color: beige;
+        padding: 1rem;
+        display: block;
+        text-align: center;
+    }
+    div.personal h3 {
+        color: maroon;
+    }
+    div.personal h4 {
+        color: darkseagreen;
+    }
+    div.organizations {
+        background-color: white;
+        padding: 1rem;
+        display: block;
+        text-align: center;
+    }
+    div.organizations h3 {
+        color: maroon;
+    }
+    div.organizations h4 {
+        color: darkseagreen;
+    }
+    div.certificates {
+        background-color: beige;
+        padding: 1rem;
+        display: block;
+        text-align: center;
+    }
+    div.certificates h3 {
+        color: maroon;
+    }
+    div.interests {
+        background-color: white;
+        padding: 1rem;
+        display: block;
+        text-align: center;
+    }
+    div.interests h3 {
+        color: maroon;
+    }
+}
